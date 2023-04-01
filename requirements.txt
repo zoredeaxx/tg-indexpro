@@ -1,6 +1,6 @@
 aiohttp
-aiohttp-jinja2
-telethon>=1.16.4
+jinja2==3.0.3
+telethon
 cryptg
-pillow
-doodstream
+Pillow
+aiohttp_session[secure]
